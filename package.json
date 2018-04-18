@@ -1,0 +1,16 @@
+{
+  "name": "qna_v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.0.0-m3.0",
+    "botbuilder-ai": "^4.0.0-m3.0",
+    "restify": "^7.1.0"
+  }
+}
